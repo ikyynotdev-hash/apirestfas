@@ -16,6 +16,7 @@
     { "src": "/api-kimiai", "dest": "/api-kimiai.js" },
     { "src": "/api-asahotak", "dest": "/api-asahotak.js" },
     { "src": "/api-githubstalk", "dest": "/api-githubstalk.js" },
-    { "src": "/api-pinterest", "dest": "/api-pinterest.js" }
+    { "src": "/api-pinterest", "dest": "/api-pinterest.js" },
+    { "src": "/api-lobbyffmax", "dest": "/api-lobbyffmax.js" }
   ]
 }
