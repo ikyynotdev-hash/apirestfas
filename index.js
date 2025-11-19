@@ -22,7 +22,7 @@ app.get("/", (req, res) => {
       "/api-asahotak",
       "/api-githubstalk",
       "/api-pinterest?query=",
-      "/api-lobbyffmax?text="
+      "/api-lobyyffmax?text="
     ]
   })
 })
