@@ -21,8 +21,8 @@ app.get("/", (req, res) => {
       "/api-kimiai?query=",
       "/api-asahotak",
       "/api-githubstalk",
-      "/api-pinterest?query",
-      "/api-lobbyffmax?text=",
+      "/api-pinterest?query=",
+      "/api-lobbyffmax?text="
     ]
   })
 })
